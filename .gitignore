@@ -1,1 +1,13 @@
 data/*
+gan/checkpoints_/*
+gan/results/*
+vae/checkpoints/*
+vae/checkpoints_/*
+vae/results/*
+evaluation/classify_image_graph_def.pb
+gan/.ipynb_checkpoints/dog_gan-checkpoint.ipynb
+gan/.ipynb_checkpoints/dog_gan_non_cropped-checkpoint.ipynb
+gan/.ipynb_checkpoints/dog_per_class_test_backup-checkpoint.ipynb
+gan/MP4_dog.ipynb
+gan/dog_per_class_test_backup.ipynb
+gan/dog_gan.ipynb
