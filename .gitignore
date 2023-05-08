@@ -11,3 +11,6 @@ gan/.ipynb_checkpoints/dog_per_class_test_backup-checkpoint.ipynb
 gan/MP4_dog.ipynb
 gan/dog_per_class_test_backup.ipynb
 gan/dog_gan.ipynb
+cgan/results/*
+diffusion/results/*
+diffusion/results_shitzu/*
